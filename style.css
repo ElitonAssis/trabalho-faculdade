@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 100%;
+}
+
+ul {
+
+    display: flex;
+    width: 50 vw;
+    justify-content: space-around;
+
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+h2 {
+    color: #333;
+}
+
+.secao {
+    display: none;
+    width: 100%;
+}
+
+.conteudo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
